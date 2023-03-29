@@ -1,3 +1,3 @@
-# Unet-pytorch
+# Unet-Pytorch
 
-A implementation of UNet using pytorch
+A implementation of UNet using pytorch :)
